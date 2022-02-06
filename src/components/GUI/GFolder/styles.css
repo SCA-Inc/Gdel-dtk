@@ -1,0 +1,15 @@
+.folder {
+    padding: 20px;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+}
+.folder-color {
+    background-color: transparent;
+}
+.folder-tile {
+    border-radius: 0px;
+}
+.folder-outlined {
+    border: 1px solid gray;
+}
