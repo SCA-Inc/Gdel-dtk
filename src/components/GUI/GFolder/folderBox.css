@@ -1,0 +1,16 @@
+.folder-box {
+    padding: 20px;
+    width: 100px;
+}
+.folder-box:hover {
+    background-color: var(--border-basic);
+}
+.folder-box-outlined {
+    border: 1px solid var(--border-basic);
+}
+.folder-box-rounded {
+    border-radius: 5px;
+}
+.folder-box-tile {
+    border-radius: 0px;
+}
